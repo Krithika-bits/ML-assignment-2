@@ -1,1 +1,7 @@
-streamlit\nscikit-learn\nnumpy\npandas\nmatplotlib\njoblib\nucimlrepo\n
+streamlit
+scikit-learn
+numpy
+pandas
+matplotlib
+joblib
+ucimlrepo
